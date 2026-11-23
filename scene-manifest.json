@@ -1137,5 +1137,42 @@
       1534,
       1022
     ]
+  },
+  {
+    "id": "scene-0063",
+    "chapter": 2,
+    "source_paragraphs": [
+      46
+    ],
+    "sentence_marker_count": 3,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0063.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      12,
+      12,
+      369,
+      260
+    ]
+  },
+  {
+    "id": "scene-0064",
+    "chapter": 2,
+    "source_paragraphs": [
+      47,
+      48
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0064.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      401,
+      12,
+      752,
+      260
+    ]
   }
 ]
