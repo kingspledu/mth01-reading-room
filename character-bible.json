@@ -96,6 +96,12 @@
       "status": "visually_reviewed",
       "mode": "built_in_imagegen",
       "reference": "MTH04 children visual sheet v1"
+    },
+    "environment": {
+      "asset": "assets/mth01-environment-sheet-v1.png",
+      "status": "visually_reviewed",
+      "mode": "built_in_imagegen",
+      "reference": "MTH04 children visual sheet v1"
     }
   }
 }
