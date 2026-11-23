@@ -4725,5 +4725,135 @@
       1534,
       1022
     ]
+  },
+  {
+    "id": "scene-0257",
+    "chapter": 8,
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_marker_count": 5,
+    "needs_density_review": true,
+    "status": "integrated",
+    "asset": "assets/scene-0257.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      12,
+      12,
+      368,
+      246
+    ]
+  },
+  {
+    "id": "scene-0258",
+    "chapter": 8,
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0258.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      400,
+      12,
+      753,
+      246
+    ]
+  },
+  {
+    "id": "scene-0259",
+    "chapter": 8,
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0259.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      785,
+      12,
+      1138,
+      246
+    ]
+  },
+  {
+    "id": "scene-0260",
+    "chapter": 8,
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "sentence_marker_count": 4,
+    "needs_density_review": true,
+    "status": "integrated",
+    "asset": "assets/scene-0260.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      1169,
+      12,
+      1524,
+      246
+    ]
+  },
+  {
+    "id": "scene-0261",
+    "chapter": 8,
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0261.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      12,
+      277,
+      368,
+      503
+    ]
+  },
+  {
+    "id": "scene-0262",
+    "chapter": 8,
+    "source_paragraphs": [
+      31
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0262.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      401,
+      277,
+      753,
+      503
+    ]
+  },
+  {
+    "id": "scene-0263",
+    "chapter": 8,
+    "source_paragraphs": [
+      32
+    ],
+    "sentence_marker_count": 1,
+    "needs_density_review": true,
+    "status": "integrated",
+    "asset": "assets/scene-0263.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      785,
+      277,
+      1138,
+      503
+    ]
   }
 ]
