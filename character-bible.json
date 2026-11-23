@@ -70,6 +70,32 @@
       "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
     }
   ],
-  "status": "text_rules_ready_book_specific_visual_sheets_pending",
-  "presence_rule": "캐스트 목록·참조 시트는 장면 출연 허가가 아니다. 원문상 현재 인물만 표시한다."
+  "status": "book_character_sheets_ready",
+  "presence_rule": "캐스트 목록·참조 시트는 장면 출연 허가가 아니다. 원문상 현재 인물만 표시한다.",
+  "visual_sheets": {
+    "children": {
+      "asset": "assets/mth01-children-sheet-v1.png",
+      "status": "visually_reviewed",
+      "mode": "built_in_imagegen",
+      "reference": "MTH04 children visual sheet v1"
+    },
+    "pteranodon": {
+      "asset": "assets/mth01-pteranodon-sheet-v1.png",
+      "status": "visually_reviewed",
+      "mode": "built_in_imagegen",
+      "reference": "MTH04 children visual sheet v1"
+    },
+    "supporting": {
+      "asset": "assets/mth01-supporting-sheet-v1.png",
+      "status": "visually_reviewed",
+      "mode": "built_in_imagegen",
+      "reference": "MTH04 children visual sheet v1"
+    },
+    "dinosaurs": {
+      "asset": "assets/mth01-dinosaurs-sheet-v1.png",
+      "status": "visually_reviewed",
+      "mode": "built_in_imagegen",
+      "reference": "MTH04 children visual sheet v1"
+    }
+  }
 }
