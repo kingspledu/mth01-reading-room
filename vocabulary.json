@@ -1,170 +1,574 @@
 {
-  "pretend": {
-    "ko": "상상 속의, 가상의",
-    "definition": "Imagined rather than real."
+  "said": {
+    "ko": "말했다",
+    "definition": "Spoke words."
+  },
+  "monster": {
+    "ko": "괴물",
+    "definition": "A strange frightening creature."
+  },
+  "sure": {
+    "ko": "확신하는",
+    "definition": "Feeling certain."
+  },
+  "Jack": {
+    "ko": "잭",
+    "definition": "The name of Annie’s older brother."
+  },
+  "run": {
+    "ko": "달리다",
+    "definition": "To move quickly on foot."
+  },
+  "ran": {
+    "ko": "달렸다",
+    "definition": "Moved quickly on foot."
+  },
+  "brother": {
+    "ko": "오빠",
+    "definition": "A boy or man with the same parents."
+  },
+  "sister": {
+    "ko": "여동생",
+    "definition": "A girl with the same parents."
+  },
+  "and": {
+    "ko": "그리고",
+    "definition": "Used to join words or ideas."
+  },
+  "he": {
+    "ko": "그는",
+    "definition": "Used to refer to a boy or man."
+  },
+  "you": {
+    "ko": "너",
+    "definition": "The person being spoken to."
+  },
+  "woods": {
+    "ko": "숲",
+    "definition": "An area covered with trees."
+  },
+  "alone": {
+    "ko": "혼자",
+    "definition": "Without another person."
+  },
+  "about": {
+    "ko": "~에 관해",
+    "definition": "On the subject of something."
+  },
+  "looked": {
+    "ko": "보았다",
+    "definition": "Used the eyes to see something."
+  },
+  "home": {
+    "ko": "집",
+    "definition": "The place where someone lives."
+  },
+  "come on": {
+    "ko": "어서",
+    "definition": "Words used to urge someone to act."
+  },
+  "Annie": {
+    "ko": "애니",
+    "definition": "The name of Jack’s younger sister."
+  },
+  "shouted": {
+    "ko": "외쳤다",
+    "definition": "Spoke very loudly."
+  },
+  "no": {
+    "ko": "아니",
+    "definition": "Used to give a negative answer."
+  },
+  "this": {
+    "ko": "이것",
+    "definition": "Used to point to something nearby."
+  },
+  "late": {
+    "ko": "늦은",
+    "definition": "After the expected time."
+  },
+  "road": {
+    "ko": "도로",
+    "definition": "A way people travel along."
+  },
+  "look": {
+    "ko": "보다",
+    "definition": "To use your eyes to see."
+  },
+  "there": {
+    "ko": "저기에",
+    "definition": "In that place."
+  },
+  "rope": {
+    "ko": "밧줄",
+    "definition": "A strong thick cord."
+  },
+  "ladder": {
+    "ko": "사다리",
+    "definition": "Steps used for climbing up or down."
+  },
+  "tree house": {
+    "ko": "나무 위 집",
+    "definition": "A small house built in a tree."
+  },
+  "tree": {
+    "ko": "나무",
+    "definition": "A tall plant with a trunk and branches."
+  },
+  "asked": {
+    "ko": "물었다",
+    "definition": "Said a question."
+  },
+  "world": {
+    "ko": "세계",
+    "definition": "The earth and everything in it."
+  },
+  "it": {
+    "ko": "그것",
+    "definition": "Used to refer to a thing."
+  },
+  "we": {
+    "ko": "우리는",
+    "definition": "The speaker and other people."
+  },
+  "for": {
+    "ko": "~을 위해",
+    "definition": "Used to show a purpose."
+  },
+  "she": {
+    "ko": "그녀는",
+    "definition": "Used to refer to a girl or woman."
+  },
+  "back": {
+    "ko": "등",
+    "definition": "The rear part of the body."
+  },
+  "sighed": {
+    "ko": "한숨 쉬었다",
+    "definition": "Let out a long slow breath."
+  },
+  "go": {
+    "ko": "가다",
+    "definition": "To move to another place."
+  },
+  "window": {
+    "ko": "창문",
+    "definition": "An opening with glass in a wall."
+  },
+  "books": {
+    "ko": "책들",
+    "definition": "Pages bound together for reading."
+  },
+  "glasses": {
+    "ko": "안경",
+    "definition": "Lenses worn to help someone see."
   },
   "gripped": {
     "ko": "꽉 잡았다",
-    "definition": "Held something firmly."
+    "definition": "Held something tightly."
   },
-  "peering": {
-    "ko": "유심히 내다보는",
-    "definition": "Looking carefully at something that is hard to see."
+  "library": {
+    "ko": "도서관",
+    "definition": "A place where books are kept for people to read."
+  },
+  "pointed": {
+    "ko": "가리켰다",
+    "definition": "Showed something with a finger."
+  },
+  "tiny": {
+    "ko": "아주 작은",
+    "definition": "Very small."
   },
   "glanced": {
     "ko": "힐끗 보았다",
-    "definition": "Looked quickly at something."
+    "definition": "Looked quickly."
+  },
+  "bookmarks": {
+    "ko": "책갈피들",
+    "definition": "Things placed in books to mark pages."
+  },
+  "castle": {
+    "ko": "성",
+    "definition": "A large strong building with towers."
+  },
+  "held up": {
+    "ko": "들어 올렸다",
+    "definition": "Raised something to show it."
+  },
+  "turned": {
+    "ko": "돌아보았다",
+    "definition": "Moved to face another direction."
+  },
+  "picture": {
+    "ko": "그림",
+    "definition": "An image showing someone or something."
+  },
+  "dinosaurs": {
+    "ko": "공룡들",
+    "definition": "Large reptiles that lived millions of years ago."
+  },
+  "see": {
+    "ko": "보다",
+    "definition": "To notice something with your eyes."
+  },
+  "backpack": {
+    "ko": "배낭",
+    "definition": "A bag carried on the back."
+  },
+  "that": {
+    "ko": "저것",
+    "definition": "Used to point to something."
+  },
+  "where": {
+    "ko": "어디에",
+    "definition": "Used to ask about a place."
+  },
+  "opened": {
+    "ko": "열었다",
+    "definition": "Moved something to allow access."
   },
   "ancient": {
-    "ko": "아주 오래전의",
-    "definition": "Belonging to a time long ago."
+    "ko": "고대의",
+    "definition": "From a very long time ago."
   },
-  "soaring": {
-    "ko": "높이 날고 있는",
-    "definition": "Flying high through the air."
+  "wish": {
+    "ko": "바라다",
+    "definition": "To want something to happen."
   },
-  "gliding": {
-    "ko": "미끄러지듯 나는",
-    "definition": "Flying smoothly without flapping much."
+  "huge": {
+    "ko": "거대한",
+    "definition": "Very large."
   },
-  "trembled": {
-    "ko": "떨렸다",
-    "definition": "Shook with small quick movements."
+  "creature": {
+    "ko": "생물",
+    "definition": "A living animal or being."
   },
-  "vanished": {
-    "ko": "사라졌다",
-    "definition": "Disappeared from sight."
+  "cried": {
+    "ko": "외쳤다",
+    "definition": "Called out loudly."
   },
-  "boldly": {
-    "ko": "대담하게",
-    "definition": "In a brave and confident way."
+  "Pteranodon": {
+    "ko": "프테라노돈",
+    "definition": "A prehistoric flying reptile."
   },
-  "cautiously": {
-    "ko": "조심스럽게",
-    "definition": "Carefully, to avoid danger."
+  "leaves": {
+    "ko": "나뭇잎들",
+    "definition": "The flat green parts of a plant."
   },
-  "crest": {
-    "ko": "머리의 볏",
-    "definition": "A raised part on top of an animal’s head."
+  "wind": {
+    "ko": "바람",
+    "definition": "Air moving outside."
   },
-  "fuzz": {
-    "ko": "보송보송한 잔털",
-    "definition": "A covering of very short soft hairs."
+  "spin": {
+    "ko": "빙빙 돌다",
+    "definition": "To turn around quickly."
+  },
+  "get": {
+    "ko": "얻다 / 가다",
+    "definition": "To obtain something or reach a place."
+  },
+  "squeezed": {
+    "ko": "꽉 감았다",
+    "definition": "Pressed tightly together."
+  },
+  "eyes": {
+    "ko": "눈",
+    "definition": "The parts of the body used for seeing."
+  },
+  "still": {
+    "ko": "고요한",
+    "definition": "Without movement."
+  },
+  "absolutely": {
+    "ko": "완전히",
+    "definition": "Completely; in every way."
+  },
+  "sunlight": {
+    "ko": "햇빛",
+    "definition": "Light from the sun."
+  },
+  "same": {
+    "ko": "같은",
+    "definition": "Exactly alike."
+  },
+  "book": {
+    "ko": "책",
+    "definition": "Pages bound together for reading."
+  },
+  "outside": {
+    "ko": "밖에",
+    "definition": "Beyond a building or place."
+  },
+  "us": {
+    "ko": "우리에게",
+    "definition": "The speaker and another person or people."
+  },
+  "means": {
+    "ko": "뜻한다",
+    "definition": "Has a particular meaning."
+  },
+  "looked up": {
+    "ko": "올려다보았다",
+    "definition": "Turned the eyes upward."
+  },
+  "they": {
+    "ko": "그들은",
+    "definition": "Used to refer to more than one person or thing."
+  },
+  "ground": {
+    "ko": "땅",
+    "definition": "The surface of the earth."
+  },
+  "make": {
+    "ko": "시키다",
+    "definition": "To cause someone to do something."
+  },
+  "friends": {
+    "ko": "친구들",
+    "definition": "People you know and like."
+  },
+  "close": {
+    "ko": "가까이",
+    "definition": "At a short distance."
+  },
+  "talking": {
+    "ko": "이야기하는",
+    "definition": "Saying words to someone."
+  },
+  "breath": {
+    "ko": "숨",
+    "definition": "Air taken into or out of the lungs."
+  },
+  "examine": {
+    "ko": "살펴보다",
+    "definition": "To look at something carefully."
+  },
+  "only": {
+    "ko": "유일한",
+    "definition": "With no others."
+  },
+  "stared": {
+    "ko": "응시했다",
+    "definition": "Looked at something for a long time."
+  },
+  "hand": {
+    "ko": "손",
+    "definition": "The part at the end of an arm."
+  },
+  "notebook": {
+    "ko": "공책",
+    "definition": "A book of paper for writing notes."
+  },
+  "how": {
+    "ko": "어떻게",
+    "definition": "Used to ask in what way something happens."
+  },
+  "brain": {
+    "ko": "머리",
+    "definition": "The organ used for thinking."
+  },
+  "forget": {
+    "ko": "잊다",
+    "definition": "To stop remembering something."
   },
   "gasped": {
-    "ko": "놀라 숨을 들이켰다",
-    "definition": "Breathed in suddenly because of surprise."
+    "ko": "헉 하고 숨을 쉬었다",
+    "definition": "Took a sudden breath in surprise."
   },
-  "panting": {
-    "ko": "헐떡이는",
-    "definition": "Breathing quickly after running or feeling afraid."
+  "whispered": {
+    "ko": "속삭였다",
+    "definition": "Spoke very quietly."
   },
-  "shield": {
-    "ko": "방패",
-    "definition": "A broad object that protects something."
+  "Triceratops": {
+    "ko": "트리케라톱스",
+    "definition": "A plant-eating dinosaur with three horns."
+  },
+  "shoved": {
+    "ko": "밀어 넣었다",
+    "definition": "Pushed something roughly."
+  },
+  "promise": {
+    "ko": "약속하다",
+    "definition": "To say firmly that you will do something."
+  },
+  "kiss": {
+    "ko": "입맞춤",
+    "definition": "A touch with the lips showing affection."
+  },
+  "kind": {
+    "ko": "다정한",
+    "definition": "Friendly and caring."
+  },
+  "blew": {
+    "ko": "불었다",
+    "definition": "Moved as wind."
+  },
+  "ferns": {
+    "ko": "양치식물들",
+    "definition": "Plants with divided feathery leaves."
+  },
+  "carefully": {
+    "ko": "조심스럽게",
+    "definition": "With attention to avoid danger or mistakes."
+  },
+  "hill": {
+    "ko": "언덕",
+    "definition": "An area of raised land."
+  },
+  "peeked": {
+    "ko": "살짝 내다보았다",
+    "definition": "Looked quickly from a hiding place."
+  },
+  "magnolia": {
+    "ko": "목련",
+    "definition": "A tree with large flowers."
+  },
+  "smiled": {
+    "ko": "미소 지었다",
+    "definition": "Made a happy expression with the mouth."
+  },
+  "grass": {
+    "ko": "풀",
+    "definition": "Small green plants covering the ground."
+  },
+  "gazed": {
+    "ko": "바라보았다",
+    "definition": "Looked steadily at something."
+  },
+  "horns": {
+    "ko": "뿔들",
+    "definition": "Hard pointed parts growing on an animal’s head."
+  },
+  "gold": {
+    "ko": "금",
+    "definition": "A valuable yellow metal."
   },
   "medallion": {
-    "ko": "큰 메달",
-    "definition": "A large medal kept as a special object."
+    "ko": "메달",
+    "definition": "A large medal worn or kept as an object."
   },
   "engraved": {
     "ko": "새겨진",
-    "definition": "Cut or carved into a hard surface."
+    "definition": "Cut into a hard surface."
   },
-  "glittering": {
-    "ko": "반짝이는",
-    "definition": "Shining with small bright flashes."
+  "gone": {
+    "ko": "사라진",
+    "definition": "No longer there."
   },
-  "clutching": {
-    "ko": "꽉 쥐고 있는",
-    "definition": "Holding something tightly."
+  "took off": {
+    "ko": "벗었다",
+    "definition": "Removed a piece of clothing."
   },
-  "crouching": {
-    "ko": "몸을 웅크리고 있는",
-    "definition": "Bending low with the knees bent."
+  "valley": {
+    "ko": "골짜기",
+    "definition": "Low land between hills."
   },
-  "crouched": {
-    "ko": "몸을 웅크렸다",
-    "definition": "Bent low with the knees bent."
+  "slowly": {
+    "ko": "천천히",
+    "definition": "At a low speed."
+  },
+  "okay": {
+    "ko": "알겠어",
+    "definition": "Used to show agreement."
+  },
+  "chew": {
+    "ko": "씹다",
+    "definition": "To crush food with the teeth."
+  },
+  "mean": {
+    "ko": "뜻하다",
+    "definition": "To have a particular meaning."
+  },
+  "pretended": {
+    "ko": "~인 척했다",
+    "definition": "Acted as if something was true."
+  },
+  "mad": {
+    "ko": "화가 난",
+    "definition": "Feeling angry."
+  },
+  "closer": {
+    "ko": "더 가까운",
+    "definition": "At a shorter distance."
+  },
+  "quickly": {
+    "ko": "빠르게",
+    "definition": "At a fast speed."
+  },
+  "babies": {
+    "ko": "새끼들",
+    "definition": "Very young animals or children."
+  },
+  "Anatosaurus": {
+    "ko": "아나토사우루스",
+    "definition": "A duck-billed plant-eating dinosaur."
+  },
+  "throw": {
+    "ko": "던지다",
+    "definition": "To send something through the air by hand."
+  },
+  "go back": {
+    "ko": "돌아가다",
+    "definition": "To return to an earlier place."
+  },
+  "remember": {
+    "ko": "기억하다",
+    "definition": "To keep something from the past in your mind."
+  },
+  "hurry": {
+    "ko": "서두르다",
+    "definition": "To move or act quickly."
+  },
+  "ready": {
+    "ko": "준비된",
+    "definition": "Prepared to do something."
   },
   "bellowing": {
-    "ko": "크게 울부짖는",
-    "definition": "Making a deep loud animal sound."
+    "ko": "우렁차게 울부짖는",
+    "definition": "Making a loud deep cry."
   },
-  "nest": {
-    "ko": "둥지",
-    "definition": "A place an animal makes for its eggs or young."
+  "Tyrannosaurus rex": {
+    "ko": "티라노사우루스 렉스",
+    "definition": "A large meat-eating dinosaur."
   },
-  "nests": {
-    "ko": "둥지들",
-    "definition": "Places animals make for their eggs or young."
+  "horrible": {
+    "ko": "끔찍한",
+    "definition": "Very frightening or unpleasant."
   },
-  "colonies": {
-    "ko": "무리, 집단",
-    "definition": "Groups of animals living together."
+  "panic": {
+    "ko": "당황하다",
+    "definition": "To suddenly feel too frightened to think calmly."
   },
-  "waddled": {
-    "ko": "뒤뚱거리며 걸었다",
-    "definition": "Walked with short steps while swaying from side to side."
+  "peered": {
+    "ko": "유심히 보았다",
+    "definition": "Looked closely or carefully."
   },
-  "dashed": {
-    "ko": "쏜살같이 달렸다",
-    "definition": "Ran very quickly."
+  "information": {
+    "ko": "정보",
+    "definition": "Facts about something."
   },
-  "scrambled": {
-    "ko": "허둥지둥 올라갔다",
-    "definition": "Moved or climbed quickly using hands and feet."
+  "great": {
+    "ko": "멋진",
+    "definition": "Very good or wonderful."
   },
-  "hunched": {
-    "ko": "몸을 구부렸다",
-    "definition": "Bent the back and shoulders forward."
+  "help": {
+    "ko": "돕다",
+    "definition": "To make something easier for someone."
   },
-  "stampede": {
-    "ko": "우르르 달아나다",
-    "definition": "Rush together in a frightened group."
+  "wait": {
+    "ko": "기다리다",
+    "definition": "To stay until something happens."
   },
-  "teetered": {
-    "ko": "이리저리 흔들렸다",
-    "definition": "Moved unsteadily as if about to fall."
+  "eye": {
+    "ko": "눈",
+    "definition": "The part of the body used to see."
   },
-  "steadied": {
-    "ko": "균형을 잡았다",
-    "definition": "Became balanced and stopped wobbling."
+  "shadow": {
+    "ko": "그림자",
+    "definition": "A dark shape made when light is blocked."
   },
-  "grazing": {
-    "ko": "풀을 뜯어 먹는",
-    "definition": "Eating grass or other low plants."
-  },
-  "miracle": {
-    "ko": "기적",
-    "definition": "An amazing event that seems almost impossible."
-  },
-  "wobbly": {
-    "ko": "후들거리는",
-    "definition": "Weak and unsteady."
-  },
-  "dizzy": {
-    "ko": "어지러운",
-    "definition": "Feeling as if everything is turning around."
-  },
-  "bolted": {
-    "ko": "쏜살같이 달려갔다",
-    "definition": "Ran away or moved suddenly and quickly."
-  },
-  "dazed": {
-    "ko": "멍한",
-    "definition": "Confused and unable to think clearly after a surprise."
-  },
-  "shrugged": {
-    "ko": "어깨를 으쓱했다",
-    "definition": "Raised the shoulders to show uncertainty."
-  },
-  "clasped": {
-    "ko": "꼭 쥐었다",
-    "definition": "Held something firmly in the hand."
-  },
-  "tingle": {
-    "ko": "찌릿찌릿하다",
-    "definition": "To feel a light prickling sensation."
+  "straight": {
+    "ko": "곧장",
+    "definition": "Directly without turning."
   }
 }
