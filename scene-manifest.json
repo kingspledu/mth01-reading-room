@@ -4855,5 +4855,304 @@
       1138,
       503
     ]
+  },
+  {
+    "id": "scene-0264",
+    "chapter": 9,
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0264.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      2,
+      2,
+      380,
+      252
+    ]
+  },
+  {
+    "id": "scene-0265",
+    "chapter": 9,
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_marker_count": 3,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0265.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      392,
+      2,
+      763,
+      252
+    ]
+  },
+  {
+    "id": "scene-0266",
+    "chapter": 9,
+    "source_paragraphs": [
+      4
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0266.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      774,
+      2,
+      1144,
+      252
+    ]
+  },
+  {
+    "id": "scene-0267",
+    "chapter": 9,
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_marker_count": 3,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0267.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1155,
+      2,
+      1534,
+      252
+    ]
+  },
+  {
+    "id": "scene-0268",
+    "chapter": 9,
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_marker_count": 3,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0268.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      2,
+      261,
+      380,
+      507
+    ]
+  },
+  {
+    "id": "scene-0269",
+    "chapter": 9,
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0269.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      0,
+      0,
+      1542,
+      1020
+    ],
+    "review": "Single-scene regeneration removes duplicate Jack and Henry; visually reviewed."
+  },
+  {
+    "id": "scene-0270",
+    "chapter": 9,
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "sentence_marker_count": 3,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0270.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      774,
+      261,
+      1144,
+      507
+    ]
+  },
+  {
+    "id": "scene-0271",
+    "chapter": 9,
+    "source_paragraphs": [
+      11
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0271.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1155,
+      261,
+      1534,
+      507
+    ]
+  },
+  {
+    "id": "scene-0272",
+    "chapter": 9,
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0272.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      2,
+      517,
+      380,
+      762
+    ]
+  },
+  {
+    "id": "scene-0273",
+    "chapter": 9,
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0273.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      392,
+      517,
+      763,
+      762
+    ]
+  },
+  {
+    "id": "scene-0274",
+    "chapter": 9,
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0274.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      774,
+      517,
+      1144,
+      762
+    ]
+  },
+  {
+    "id": "scene-0275",
+    "chapter": 9,
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_marker_count": 3,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0275.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1155,
+      517,
+      1534,
+      762
+    ]
+  },
+  {
+    "id": "scene-0276",
+    "chapter": 9,
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_marker_count": 3,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0276.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      2,
+      772,
+      380,
+      1022
+    ],
+    "review": "Targeted generated edit visually reviewed; only this tile replaced.",
+    "edited_source": "C:/Users/고보민/.codex/generated_images/01a206ba-f83d-75d3-bc75-7d4d2c274b4f/exec-733bf5f4-8d1c-4818-aa96-764f7e349e67.png"
+  },
+  {
+    "id": "scene-0277",
+    "chapter": 9,
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0277.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      392,
+      772,
+      763,
+      1022
+    ]
+  },
+  {
+    "id": "scene-0278",
+    "chapter": 9,
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0278.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      774,
+      772,
+      1144,
+      1022
+    ],
+    "review": "Targeted generated edit visually reviewed; only this tile replaced.",
+    "edited_source": "C:/Users/고보민/.codex/generated_images/01a206ba-f83d-75d3-bc75-7d4d2c274b4f/exec-733bf5f4-8d1c-4818-aa96-764f7e349e67.png"
+  },
+  {
+    "id": "scene-0279",
+    "chapter": 9,
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_marker_count": 2,
+    "needs_density_review": false,
+    "status": "integrated",
+    "asset": "assets/scene-0279.webp",
+    "page": "part-09-01.html",
+    "crop": [
+      1155,
+      772,
+      1534,
+      1022
+    ]
   }
 ]
