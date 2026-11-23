@@ -1,0 +1,75 @@
+{
+  "book": 1,
+  "title": "Dinosaurs Before Dark",
+  "common_reference": {
+    "version": "mth04-visual-v1",
+    "reference": "assets/series-jack-annie-reference.png",
+    "priority": "Source presence and wardrobe state override the reference default pose and gear.",
+    "characters": [
+      {
+        "id": "MTH-JACK",
+        "name": "Jack",
+        "source_facts": "8세 반. Annie의 오빠. 안경을 쓰며 책과 관찰을 좋아한다.",
+        "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다."
+      },
+      {
+        "id": "MTH-ANNIE",
+        "name": "Annie",
+        "source_facts": "7세. Jack의 여동생. 적극적으로 탐험한다.",
+        "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다."
+      }
+    ]
+  },
+  "characters": [
+    {
+      "id": "MTH-JACK",
+      "name": "Jack",
+      "source_facts": "8세 반. Annie의 오빠. 안경을 쓰며 책과 관찰을 좋아한다.",
+      "design": "4권 시트와 같은 갈색 머리·얼굴, 얇은 원형 안경, 빨간 긴팔·청바지. 기본 갈색 운동화. Annie보다 조금 크다."
+    },
+    {
+      "id": "MTH-ANNIE",
+      "name": "Annie",
+      "source_facts": "7세. Jack의 여동생. 적극적으로 탐험한다.",
+      "design": "4권 시트와 같은 금발 단발·얼굴, 보라색 티셔츠·청반바지·기본 빨간 운동화. Jack보다 작다."
+    },
+    {
+      "id": "MTH01-PTERANODON",
+      "name": "Pteranodon / Henry",
+      "source_facts": "긴 뒤쪽 볏·가는 부리·막 날개·부드러운 털. 착지·비행·Jack 탑승 상태를 구분한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH01-TRICERATOPS",
+      "name": "Triceratops",
+      "source_facts": "뿔 세 개와 목 뒤 프릴. 식물을 먹으며 어린이보다 훨씬 크다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH01-ANATOSAURUS",
+      "name": "Anatosaurus Herd",
+      "source_facts": "성체와 새끼·둥지를 구분하고 어미의 위치를 유지한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH01-TREX",
+      "name": "Tyrannosaurus rex",
+      "source_facts": "큰 머리·두 뒷다리·작은 앞다리·긴 꼬리. 추격 위치와 방향을 유지한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH-HENRY-DOG",
+      "name": "Henry the Dog",
+      "source_facts": "이웃의 검은 개. 익룡 Henry와 다른 인물이다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    },
+    {
+      "id": "MTH-MOM",
+      "name": "Mom",
+      "source_facts": "집 앞 먼 거리의 어머니. 세부 외형은 권별 원문 확인 후 공통 제작 선택으로 고정한다.",
+      "design": "권별 시각 시트 준비 중. 원문 확인 후 제작 선택을 별도 고정한다."
+    }
+  ],
+  "status": "text_rules_ready_book_specific_visual_sheets_pending",
+  "presence_rule": "캐스트 목록·참조 시트는 장면 출연 허가가 아니다. 원문상 현재 인물만 표시한다."
+}
